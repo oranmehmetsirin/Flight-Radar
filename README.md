@@ -21,7 +21,7 @@ React-Paginate,
 
 Bootstrap 
 
-and
+And
 
 Axios
 
@@ -32,6 +32,8 @@ API Used;
 RapidAPI
 
 A Gif containing images of the project is below.
+
+![Animation](https://github.com/oranmehmetsirin/Flight-Radar/blob/main/gif.gif?raw=true)
 
 
 # React + Vite
